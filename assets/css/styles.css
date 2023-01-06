@@ -65,7 +65,7 @@ selector {
     align-items: center;
     justify-content: space-between;
     padding: 1.5rem 3.5rem;
-    background-color: var(--big-color);
+    background-color: #ebabdf;
     box-shadow: 0 3px rgba(0,0,0,0.1);
    }
 
@@ -130,3 +130,17 @@ selector {
     line-height: var(--line-height);
     padding: 0.3rem 0;
    }
+    .more-about {
+      background-color: var(--bg-color);
+      padding: 1rem 6rem;
+    }
+
+    .more-about h2 {
+      margin-bottom: var(--bottom-margin);
+      text-align: center;
+    }
+
+    .more-about p {
+      line-height: var(--line-height);
+      padding: 0.4rem;
+    }
