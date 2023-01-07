@@ -65,7 +65,7 @@ selector {
     align-items: center;
     justify-content: space-between;
     padding: 1.5rem 3.5rem;
-    background-color: #ebabdf;
+    background-color: #edb9e4;
     box-shadow: 0 3px rgba(0,0,0,0.1);
    }
 
@@ -111,8 +111,8 @@ selector {
    }
 
    .hero img {
-    height: 30.5rem;
-    width: 30.5rem;
+    height: 20.5rem;
+    width: 20.5rem;
    }
 
    .bio {
@@ -144,3 +144,32 @@ selector {
       line-height: var(--line-height);
       padding: 0.4rem;
     }
+
+    .skills {
+      max-width: 68.75rem;
+      margin: auto;
+      text-align: center;
+      margin-top: 2.5rem;
+    }
+
+    .skill-header {
+      margin-bottom: 1rem;
+    }
+
+    .skills-wrapper img {
+      padding: 1.25rem;
+    }
+
+    .icon {
+      width: 11.875rem;
+      height: 11.25rem;
+    }
+
+    .icon-card {
+      background-color: #fff;
+      border-radius: 11px;
+      box-shadow: 0 3px 10px var(--secondary-shadow);
+      padding: 20px;
+      margin: 10px;
+    }
+
