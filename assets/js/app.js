@@ -24,10 +24,10 @@ burger.addEventListener("click" , () => {
 
 // select nav
 
-const navLinks =document.querySelectorAll(".nav-link");
+const navLink = document.querySelectorAll(".nav-link");
 
 navLink.forEach((link) =>
-link.addEventListener("click", () => {
+   link.addEventListener("click", () => {
     ul.classList.remove("show");
 })
 );
