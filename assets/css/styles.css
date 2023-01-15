@@ -352,7 +352,7 @@ selector {
     display: block;
   }
 
-  .nav ul.show {
+  nav ul.show {
     transform: translateX(0);
   }
 
@@ -363,8 +363,8 @@ selector {
   }
 
   .hero img {
-    height: 37.5rem;
-    width: 30rem;
+    height: 27.5rem;
+    width: 20rem;
   } 
 
   .bio {
@@ -405,8 +405,8 @@ selector {
 
  @media screen and (max-width: 420px) {
   .hero img {
-    height: 37.5rem;
-    width: 23rem;
+    height: 27.5rem;
+    width: 13rem;
   }
 
   .bio {
