@@ -111,7 +111,7 @@ selector {
    }
 
    .hero img {
-    height: 25.5rem;
+    height: 33.5rem;
     width: 25.5rem;
    }
 
@@ -363,12 +363,12 @@ selector {
   }
 
   .hero img {
-    height: 27.5rem;
-    width: 20rem;
+    height: 33.5rem;
+    width: 25.5rem;
   } 
 
   .bio {
-    margin-top: -7rem;
+    margin-top: 1rem;
     width: 20.5rem;
   }
 
@@ -390,7 +390,7 @@ selector {
     height: 5.25rem;
   }
 
-  .project-container {
+  .projects-container {
     flex-direction: column;
   }
 
