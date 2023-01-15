@@ -328,6 +328,11 @@ selector {
  /* 720px breakpoint */
 
  @media screen and (max-width: 720px) {
+
+  p {
+    word-spacing: -1px;
+  }
+  
   nav {
     padding: 1.5rem 1rem;
   }
@@ -363,8 +368,8 @@ selector {
   }
 
   .hero img {
-    height: 33.5rem;
-    width: 25.5rem;
+    height: 37.5rem;
+    width: 30rem;
   } 
 
   .bio {
