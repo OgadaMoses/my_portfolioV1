@@ -406,6 +406,10 @@ selector {
   .contact-form-container {
     max-width: 23.75rem;
   }
+    embed {
+      width: 100%;
+      height: auto;
+    }
  }
 
  @media screen and (max-width: 420px) {
@@ -425,4 +429,8 @@ selector {
   .contact-form-container {
     max-width: 17.75rem;
   }
+    embed {
+      width: 100%;
+      height: auto;
+    }
  }
